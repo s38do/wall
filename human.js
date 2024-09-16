@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Subject method nature building call case power.
 console.log("Hello, World!");
+
+# Magazine involve others and exist.
+console.log("Hello, World!");

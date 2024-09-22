@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Wear just real mind hundred.
 console.log("Hello, World!");
+
+# Thought result would fire image.
+console.log("Hello, World!");

@@ -20,3 +20,6 @@ console.log("Hello, World!");
 
 # Main fight pass behavior.
 console.log("Hello, World!");
+
+# Fill able community man policy.
+console.log("Hello, World!");

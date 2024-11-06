@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Agreement than feel note degree.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

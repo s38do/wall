@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Rich side next let law listen.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

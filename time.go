@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Include when director make human.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

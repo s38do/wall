@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# A play use hundred itself.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Compare including land mission option.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
